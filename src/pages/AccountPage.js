@@ -87,7 +87,7 @@ const AccountPage = ({ user, updateUser }) => {
         </Form.Group>
 
         <Button variant="custom" type="submit" className="btn-custom">
-          Update Info
+          Add Info
         </Button>
       </Form>
     </Container>

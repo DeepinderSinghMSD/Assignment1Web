@@ -75,7 +75,7 @@ function Account({ user, updateUser }) {
             onChange={handleChange} />
         </Form.Group>
         <Button variant="custom" type="submit" className="btn-custom">
-          Update Details
+          Add info
         </Button>
       </Form>
     </Container>
